@@ -1,4 +1,4 @@
-# Depth4Pad<img src="64.png">
+# Depth4Pad<img src="64.png"> <sub>（Support iPad only）</sub>
 <h3>
   Depth Field for Single Camera of iPad
   <hr>
