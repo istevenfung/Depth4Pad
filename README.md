@@ -5,13 +5,14 @@
   <hr>
   一款適用於單鏡頭iPad帶景深功能及濾鏡風格的相機應用。<br>
   (A camera app with depth-of-field functionality and filter styles for single-lens iPads.)
-
+ 
   濾鏡風格(Filter Styles)：
-  漫畫(Comic)
-  像素(Pixel)
-  打印(Print)
-  素描(Sketch)
-  電筒(Flash)
+  <ul>
+  <li>像素(Pixel)</li>
+  <li>打印(Print)</li>
+  <li>素描(Sketch)</li>
+  <li>電筒(Flash)</li>
+  </ul>
 </h3>
 <p>《Enquiry與支持》</p>
 Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
