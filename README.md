@@ -1,4 +1,4 @@
-# Depth4Pad<img src="appIcon2.png" width="64"> <sub>（只支持iPad only）</sub>
+# Depth4Pad<img src="app Icon.png" width="64"> <sub>（只支持iPad only）</sub>
 <h3>
   單鏡頭iPad景深(帶濾鏡)相機應用<br>
   (Single-lens iPad depth-of-field with filter camera app)
