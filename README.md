@@ -1,10 +1,10 @@
 # Depth4Pad<img src="app Icon.png" width="64"> <sub>（只支持iPad only）</sub>
 <h3>
   單鏡頭iPad景深(帶濾鏡)相機應用<br>
-  (Single-lens iPad with depth-of-field and filter camera app)
+  Single-lens iPad Depth-of-Field (with Filters) Camera App
   <hr>
   一款適用於單鏡頭iPad帶景深功能及濾鏡風格的相機應用。<br>
-  (A camera app with depth-of-field functionality and filter styles for single-lens iPads.)
+  A camera app with depth-of-field functionality and filter styles for single-lens iPads.
  
   <br>濾鏡風格(Filter Styles) version 1.1：
   <ul>
